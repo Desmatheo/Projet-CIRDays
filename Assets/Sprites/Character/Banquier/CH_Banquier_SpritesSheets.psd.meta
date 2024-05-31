@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 25a6de4723ccf7f499965a7c1c8513cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dd94bc9775a3f4a8b93ed8e674fc94
+      internalID: -799443716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 949
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf0387fc16070e4692e4629cc58f430
+      internalID: -1541640869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 949
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ee6e137cdb8d46b755d0849d68ef7
+      internalID: 596884615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d2098a2352ee242a6e63520588ae5c
+      internalID: -2039325363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13caf5bad41763439cc9b596b425f8e
+      internalID: 508178076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f1baf2f98e4e41af9ba4a07b457f0
+      internalID: -639717214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2efc6feca386e64e93eaf2f601d951e
+      internalID: -980017665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9501e68cc2b6c469f3a38415676bc9
+      internalID: -1393166907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac88f080c8836f409430c214f2fc2d4
+      internalID: -66617896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c01fb08e4bbb40b239e6f86c927a3
+      internalID: 549873304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 657
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232a98ad1a917e47b59026d6e756088
+      internalID: 1761828478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 657
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5975cd55f2624e897e6c72d1ff145
+      internalID: 1444637892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc0595b50f67e4db1d95aa2d781305
+      internalID: -867216654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d4ab6d245fcfe4987d33092561d793
+      internalID: -1591499813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 511
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb93012572016439737dbf422cf6f2
+      internalID: -645952762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62716195695954448e4ae363a71f0e5
+      internalID: -1422357727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 438
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0b1418bd44d54b813564b15b2b78b
+      internalID: -1670594428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 438
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d0fddd8523944bbf789af6aae4b5d
+      internalID: 1369567462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9544640ce8d70747955e6dd92a4d133
+      internalID: 950513469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631ca65dad494a644be74a4ecfc4e8e6
+      internalID: 1529973212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 365
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392b18b149e2d940ba51d8026b4dca3
+      internalID: 472027388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445cf14b7b22eea43950849bf6653f2e
+      internalID: -106141941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010db864c4791040a5953e3c580a1d9
+      internalID: 1931790104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e8cad1c2dc4049b823f2558678d83
+      internalID: 806241486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737423c4dec59045bae71a4dddbfe10
+      internalID: -1241798654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f2c9df6153584a80976cbce552000
+      internalID: 678359533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2131e614dbc4cc42b7cdfad9b85183b
+      internalID: 1547163057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4921f45e4780dc44ead7ab1dff74e9d4
+      internalID: -1587676935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55efedf8363646642a67f784cb85906f
+      internalID: -1801307084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2df7e6fc54dd4ab9bd1024d2cb348
+      internalID: 1065571900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd3867f5a605a4da68c51e7d40445d
+      internalID: 926140413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b8a8b75a68dbf448a15e876f35e877
+      internalID: -1187157969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc88b9ec24e954aa21fd864be9d462
+      internalID: -458251374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9347eb5f68d624cb489b75f3d8f9bf
+      internalID: 785543582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Banquier_SpritesSheets_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5515ab7f406b5574fbc658693f62506b
+      internalID: -346815515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CH_Banquier_SpritesSheets_0: -799443716
+      CH_Banquier_SpritesSheets_1: -1541640869
+      CH_Banquier_SpritesSheets_10: 1761828478
+      CH_Banquier_SpritesSheets_11: 1444637892
+      CH_Banquier_SpritesSheets_12: -867216654
+      CH_Banquier_SpritesSheets_13: -1591499813
+      CH_Banquier_SpritesSheets_14: -645952762
+      CH_Banquier_SpritesSheets_15: -1422357727
+      CH_Banquier_SpritesSheets_16: -1670594428
+      CH_Banquier_SpritesSheets_17: 1369567462
+      CH_Banquier_SpritesSheets_18: 950513469
+      CH_Banquier_SpritesSheets_19: 1529973212
+      CH_Banquier_SpritesSheets_2: 596884615
+      CH_Banquier_SpritesSheets_20: 472027388
+      CH_Banquier_SpritesSheets_21: -106141941
+      CH_Banquier_SpritesSheets_22: 1931790104
+      CH_Banquier_SpritesSheets_23: 806241486
+      CH_Banquier_SpritesSheets_24: -1241798654
+      CH_Banquier_SpritesSheets_25: 678359533
+      CH_Banquier_SpritesSheets_26: 1547163057
+      CH_Banquier_SpritesSheets_27: -1587676935
+      CH_Banquier_SpritesSheets_28: -1801307084
+      CH_Banquier_SpritesSheets_29: 1065571900
+      CH_Banquier_SpritesSheets_3: -2039325363
+      CH_Banquier_SpritesSheets_30: 926140413
+      CH_Banquier_SpritesSheets_31: -1187157969
+      CH_Banquier_SpritesSheets_32: -458251374
+      CH_Banquier_SpritesSheets_33: 785543582
+      CH_Banquier_SpritesSheets_34: -346815515
+      CH_Banquier_SpritesSheets_4: 508178076
+      CH_Banquier_SpritesSheets_5: -639717214
+      CH_Banquier_SpritesSheets_6: -980017665
+      CH_Banquier_SpritesSheets_7: -1393166907
+      CH_Banquier_SpritesSheets_8: -66617896
+      CH_Banquier_SpritesSheets_9: 549873304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

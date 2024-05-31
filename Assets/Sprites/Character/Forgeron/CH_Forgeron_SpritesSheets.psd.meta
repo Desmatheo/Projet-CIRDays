@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: c1eb923ed6c7aa84487baa76a5c42260
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea326958b253c47a72a4f92eff12d9
+      internalID: 57733061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 949
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a8719c533c354f8a64545be370925
+      internalID: -779602347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 949
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642dd7ef02c4fb4469193276a68e2efc
+      internalID: 1144779050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b66ee630490be47996c2e232f93a30
+      internalID: -1372553121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2837ff99a8b820439fe2d5b3ab1f7b9
+      internalID: -1126749245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff8dbaa87532e746a5e5b7660fabfb8
+      internalID: -988595663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 876
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0047dead25aa4d8eca7ee42bead6d
+      internalID: 1466276128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f459cc0b60981324bb1e008605b5486a
+      internalID: -1703140382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee6ce386d503a49948cfae420356b1
+      internalID: 1628371510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e2babf9efbe640bada60eb818667b
+      internalID: 1798116495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 657
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ca7d2449f73842be0c17a0374e6ad
+      internalID: -473887723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 657
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb3570c1046d45458294051476e6100
+      internalID: 1125761029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31420f3a11fce634d809c5c2f1723705
+      internalID: -1072994344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a95d42cc64e9541b36ebdecba693f1
+      internalID: 811960894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 511
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d70318474777a469fe1dd541dda40c
+      internalID: 1523662637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c861d557bb55148874c3b87ee2d26c
+      internalID: 549177563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 438
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f0894a02025c4a8f7cd7dccdb6d80
+      internalID: -2113475167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 438
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d302dbb49cd04399161448df6297d
+      internalID: -1671013670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0582c8370089194d9220fd70115c452
+      internalID: -1870794692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e3b169f992f745be69722509152cb
+      internalID: 1108172488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 365
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912cac619a0918348a0927eb62de3ba6
+      internalID: -1924141342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5da80f1315134cbaee3a7db350b1d
+      internalID: -602938299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebd2da8409108a428da0ff31b410d88
+      internalID: -806201136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed563bce31f72274f84e38cf2e0fc601
+      internalID: -45174236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d5d48552e6774abb7a97f86167eb2
+      internalID: 132513465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6d23cdf6136f47851e2319991c8f8
+      internalID: 236500963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c034bee6759c2341ab2b38df330a0b6
+      internalID: -151308224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c3ea7aba757474e833a464202f7476
+      internalID: -1778390675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707a8dada5146b469e814c55c0cac0e
+      internalID: -1658435836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7208eba585fe2749b3d3bf2c8b0b166
+      internalID: -851366358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 146
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ec6b0c7bb380b41be22ff767a61fc5
+      internalID: -297594970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b22ab8d8139b4280aeb5984e37f35
+      internalID: -455658043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea177d51955fc7438ee6d66004bc627
+      internalID: 1594008057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3ca9085d2c324ea5855965883f394
+      internalID: -1053266999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea7e101add5ec44a8f96aed0ac8c15b
+      internalID: 1876766445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca97606b77b8404d80d7e347cdc8ab6
+      internalID: 1387649490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3592efaec0fdbbd46af7351a8fde2615
+      internalID: -1964434435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CH_Forgeron_SpritesSheets_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d6ab76b4ade1646a8cfd09bd148ebd
+      internalID: -302411346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CH_Forgeron_SpritesSheets_0: 57733061
+      CH_Forgeron_SpritesSheets_1: -779602347
+      CH_Forgeron_SpritesSheets_10: -473887723
+      CH_Forgeron_SpritesSheets_11: 1125761029
+      CH_Forgeron_SpritesSheets_12: -1072994344
+      CH_Forgeron_SpritesSheets_13: 811960894
+      CH_Forgeron_SpritesSheets_14: 1523662637
+      CH_Forgeron_SpritesSheets_15: 549177563
+      CH_Forgeron_SpritesSheets_16: -2113475167
+      CH_Forgeron_SpritesSheets_17: -1671013670
+      CH_Forgeron_SpritesSheets_18: -1870794692
+      CH_Forgeron_SpritesSheets_19: 1108172488
+      CH_Forgeron_SpritesSheets_2: 1144779050
+      CH_Forgeron_SpritesSheets_20: -1924141342
+      CH_Forgeron_SpritesSheets_21: -602938299
+      CH_Forgeron_SpritesSheets_22: -806201136
+      CH_Forgeron_SpritesSheets_23: -45174236
+      CH_Forgeron_SpritesSheets_24: 132513465
+      CH_Forgeron_SpritesSheets_25: 236500963
+      CH_Forgeron_SpritesSheets_26: -151308224
+      CH_Forgeron_SpritesSheets_27: -1778390675
+      CH_Forgeron_SpritesSheets_28: -1658435836
+      CH_Forgeron_SpritesSheets_29: -851366358
+      CH_Forgeron_SpritesSheets_3: -1372553121
+      CH_Forgeron_SpritesSheets_30: -297594970
+      CH_Forgeron_SpritesSheets_31: -455658043
+      CH_Forgeron_SpritesSheets_32: 1594008057
+      CH_Forgeron_SpritesSheets_33: -1053266999
+      CH_Forgeron_SpritesSheets_34: 1876766445
+      CH_Forgeron_SpritesSheets_35: 1387649490
+      CH_Forgeron_SpritesSheets_36: -1964434435
+      CH_Forgeron_SpritesSheets_37: -302411346
+      CH_Forgeron_SpritesSheets_4: -1126749245
+      CH_Forgeron_SpritesSheets_5: -988595663
+      CH_Forgeron_SpritesSheets_6: 1466276128
+      CH_Forgeron_SpritesSheets_7: -1703140382
+      CH_Forgeron_SpritesSheets_8: 1628371510
+      CH_Forgeron_SpritesSheets_9: 1798116495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
